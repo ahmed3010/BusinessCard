@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="location">Location :</string>
+    <string name="phone">Phone Number :</string>
+    <string name="address">Address :</string>
+    <string name="website">Website :</string>
+    <string name="website_value">http://www.elsaidypastry.eg/</string>
+    <string name="hours_of_operation">Hours of operation :</string>
+    <string name="location_value">Location :</string>
+    <string name="phone_value">19908</string>
+    <string name="address_value">El Ibrahimi squar , Desouk</string>
+    <string name="hours_of_operation_value">Every day : 9AM–1AM</string>
+    <string name="about_us">about us</string>
+    <string name="name">El-saidy Pastry : </string>
+    <string name="call_us">Call us</string>
+    <string name="visit_website">visit website</string>
+
+
+</resources>
